@@ -4,4 +4,4 @@ This repository contains the exercises and coding challenge solutions for the Ud
 <br/><br/>
 
 ### Acknowledgement
-I'd like to thank my good buddy @ShawonAshraf for finding me this course :relaxed:
+I'd like to thank my good buddy [Shawon Ashraf](https://github.com/ShawonAshraf) for finding me this course :relaxed:
